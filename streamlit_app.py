@@ -31,7 +31,7 @@ with st.sidebar:
     st.subheader("🔗 Connect with Me", anchor=False)
     st.markdown(
         """
-        - [🐙 Source Code](https://github.com/anubhavtripathi0509)
+        - [🐙 Source Code](https://github.com/anubhavtripathi0509/IndiaQTube)
         - [🌐 Personal Website](https://anubhavtripathi0509.github.io/portfolio)
         - [👔 LinkedIn](https://www.linkedin.com/in/anubhav-tripathi-bb8781246/)
         """
